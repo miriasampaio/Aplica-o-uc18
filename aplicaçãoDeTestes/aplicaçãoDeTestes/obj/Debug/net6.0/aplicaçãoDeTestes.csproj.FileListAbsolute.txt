@@ -1,0 +1,12 @@
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\bin\Debug\net6.0\aplicaçãoDeTestes.deps.json
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\bin\Debug\net6.0\aplicaçãoDeTestes.dll
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\bin\Debug\net6.0\aplicaçãoDeTestes.pdb
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.dll
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\refint\aplicaçãoDeTestes.dll
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\aplicaçãoDeTestes.pdb
+C:\Users\miria\OneDrive\Área de Trabalho\UC18-IMC\aplicaçãoDeTestes\aplicaçãoDeTestes\obj\Debug\net6.0\ref\aplicaçãoDeTestes.dll
